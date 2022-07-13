@@ -8000,5 +8000,31 @@
       "gender": "Female",
       "ip_address": "234.173.19.160"
     }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "cat_name": "Burger"
+    },
+    {
+      "id": 2,
+      "cat_name": "Pizza"
+    },
+    {
+      "id": 3,
+      "cat_name": "Drink"
+    },
+    {
+      "id": 4,
+      "cat_name": "Veggies"
+    },
+    {
+      "id": 5,
+      "cat_name": "Noodles"
+    },
+    {
+      "id": 6,
+      "cat_name": "Milk Tea"
+    }
   ]
 }
