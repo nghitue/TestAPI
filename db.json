@@ -8039,61 +8039,61 @@
         {
           "id": 1,
           "topping_name": "Thạch băng tuyết",
-          "price": "$7.85",
+          "price": "8",
           "available": true
         },
         {
           "id": 2,
           "topping_name": "Trân châu baby",
-          "price": "$7.38",
+          "price": "8",
           "available": true
         },
         {
           "id": 3,
           "topping_name": "Trân châu sợi",
-          "price": "$6.19",
+          "price": "8",
           "available": true
         },
         {
           "id": 4,
           "topping_name": "Trân châu hoàng kim",
-          "price": "$8.84",
+          "price": "8",
           "available": true
         },
         {
           "id": 5,
           "topping_name": "Rau câu",
-          "price": "$9.88",
+          "price": "8",
           "available": true
         },
         {
           "id": 6,
           "topping_name": "Pudding",
-          "price": "$8.81",
+          "price": "8",
           "available": true
         },
         {
           "id": 7,
-          "topping_name": "",
-          "price": "$4.78",
+          "topping_name": "Pudding trứng",
+          "price": "9",
           "available": true
         },
         {
           "id": 8,
           "topping_name": "Đậu đỏ",
-          "price": "$5.17",
+          "price": "9",
           "available": false
         },
         {
           "id": 9,
           "topping_name": "Thạch cà phê",
-          "price": "$3.10",
+          "price": "9",
           "available": false
         },
         {
           "id": 10,
           "topping_name": "Trân châu sương",
-          "price": "$1.02",
+          "price": "8",
           "available": false
         }
       ]
@@ -8125,6 +8125,60 @@
         {
           "id": 5,
           "name": "100% đường"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cat_id": 6,
+      "cat_name": "Milk Tea",
+      "topping_title": "Lượng đá",
+      "topping_type": false,
+      "maxChoose": 1,
+      "toppingList": [
+        {
+          "id": 1,
+          "name": "Đá Riêng"
+        },
+        {
+          "id": 2,
+          "name": "0% đá"
+        },
+        {
+          "id": 3,
+          "name": "30% đá"
+        },
+        {
+          "id": 4,
+          "name": "50% đá"
+        },
+        {
+          "id": 5,
+          "name": "70% đá"
+        },
+        {
+          "id": 6,
+          "name": "100% đá"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cat_id": 6,
+      "cat_name": "Milk Tea",
+      "topping_title": "Chọn size",
+      "topping_type": false,
+      "maxChoose": 1,
+      "toppingList": [
+        {
+          "id": 1,
+          "name": "Size M",
+          "price": 0
+        },
+        {
+          "id": 2,
+          "name": "Size L",
+          "price": 6
         }
       ]
     }
