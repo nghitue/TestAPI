@@ -8039,52 +8039,92 @@
         {
           "id": 1,
           "topping_name": "Thạch băng tuyết",
-          "price": "$7.85"
+          "price": "$7.85",
+          "available": true
         },
         {
           "id": 2,
           "topping_name": "Trân châu baby",
-          "price": "$7.38"
+          "price": "$7.38",
+          "available": true
         },
         {
           "id": 3,
           "topping_name": "Trân châu sợi",
-          "price": "$6.19"
+          "price": "$6.19",
+          "available": true
         },
         {
           "id": 4,
           "topping_name": "Trân châu hoàng kim",
-          "price": "$8.84"
+          "price": "$8.84",
+          "available": true
         },
         {
           "id": 5,
           "topping_name": "Rau câu",
-          "price": "$9.88"
+          "price": "$9.88",
+          "available": true
         },
         {
           "id": 6,
           "topping_name": "Pudding",
-          "price": "$8.81"
+          "price": "$8.81",
+          "available": true
         },
         {
           "id": 7,
           "topping_name": "",
-          "price": "$4.78"
+          "price": "$4.78",
+          "available": true
         },
         {
           "id": 8,
           "topping_name": "Đậu đỏ",
-          "price": "$5.17"
+          "price": "$5.17",
+          "available": false
         },
         {
           "id": 9,
           "topping_name": "Thạch cà phê",
-          "price": "$3.10"
+          "price": "$3.10",
+          "available": false
         },
         {
           "id": 10,
           "topping_name": "Trân châu sương",
-          "price": "$1.02"
+          "price": "$1.02",
+          "available": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cat_id": 6,
+      "cat_name": "Milk Tea",
+      "topping_title": "Lượng Đường",
+      "topping_type": false,
+      "maxChoose": 1,
+      "toppingList": [
+        {
+          "id": 1,
+          "name": "0% đường"
+        },
+        {
+          "id": 2,
+          "name": "30% đường"
+        },
+        {
+          "id": 3,
+          "name": "50% đường"
+        },
+        {
+          "id": 4,
+          "name": "70% đường"
+        },
+        {
+          "id": 5,
+          "name": "100% đường"
         }
       ]
     }
